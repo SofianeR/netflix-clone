@@ -30,7 +30,10 @@
   overflow-x: hidden;
   overflow-x: scroll;
   margin-left: 30px;
+}
+.carroussel {
   height: 100px;
+  border: solid red 2px;
 }
 
 .carroussel div::-webkit-scrollbar {
